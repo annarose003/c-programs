@@ -2,7 +2,7 @@
 void main()
 {
     int n;
-    printf("enter no;");
+    printf("enter your age;");
 scanf("%d",&n);
-printf("%d is the no",n);
+printf("\n :o you are old!!");
 }
